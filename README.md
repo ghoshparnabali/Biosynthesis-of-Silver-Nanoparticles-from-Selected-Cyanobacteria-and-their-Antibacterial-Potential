@@ -1,0 +1,2 @@
+# Biosynthesis-of-Silver-Nanoparticles-from-Selected-Cyanobacteria-and-their-Antibacterial-Potential
+This repository documents wet-lab research conducted as part of M.Sc. thesis work in Phycology at Visva-Bharati University. The study explores the green synthesis of AgNPs from eight cyanobacterial strains, and evaluates their antibacterial activity against six MDR bacterial pathogens using a resazurin-based microtiter plate assay.
